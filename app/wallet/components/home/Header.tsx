@@ -12,7 +12,7 @@ export default function Header() {
         marginBottom: 2,
       }}
     >
-      <Typography variant="h2">DATEV-Wallet</Typography>
+      <Typography variant="h2">Wallet-Example</Typography>
       <TextField
         variant="outlined"
         size="small"
